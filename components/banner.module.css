@@ -1,0 +1,20 @@
+.container {
+  padding: 6rem;
+}
+
+.title {
+  letter-spacing: -0.025em;
+  font-weight: 800;
+  color: var(--text-black);
+
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.title1 {
+  color: rgba(249, 250, 251, 1);
+}
+.title2 {
+  display: block;
+  color: var(--text-black);
+}
